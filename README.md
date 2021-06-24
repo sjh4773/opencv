@@ -1,2 +1,2 @@
-# opencv_c-
+# opencv C++
 opencv study
